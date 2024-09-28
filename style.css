@@ -1,0 +1,101 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'pridi', serif;
+}
+.container{
+    padding: 40px;
+    
+}
+.section-one{
+    background-color: #083c5d;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+}
+.section-one__contact{
+    background-color: #316a8e;
+    color: white;
+    text-decoration: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 5px;
+}
+.section-one__name{
+    font-size: 60px;
+}
+.section-one__role{
+    font-size: 40px;
+    
+}
+.section-one, .section-two,.section-three,.section-four, .section-five{
+    margin-top: 10px;
+}
+.section-one__desc, .section-two__desc,.section-three__desc,.section-four__desc, .section-five__desc{
+    margin-top: 10px;
+}
+.section-five{
+    background-color: #083c5d;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+.section-five__title a{
+    color: rgb(192, 167, 83);
+    text-decoration: none;
+}
+.section-three li, .section-four li{
+    list-style: none;
+}
+.section-three{
+    background-color: #2c7264;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    display: inline-block;
+    height: 300px;
+    vertical-align: top;
+}
+.section-four{
+    background-color: #7e2646;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    display: inline-block;
+    height: 300px;
+}
+.contact-form{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.contact-form__input, .contact-form__textarea, .contact-form__submit{
+    margin-top: 20px;
+}
+.contact-form__input{
+    padding: 10px;
+    border: none;
+    border-bottom: solid black 1px;
+}
+.contact-form__textarea{
+    padding: 10px;
+    border: none;
+    border: solid black 1px;
+    width: 200px;
+    height: 50px;
+}
+.contact-form__submit{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #316a8e;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
