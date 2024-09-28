@@ -1,9 +1,17 @@
-Simple Portfolio
+**Portfolio Website**
 
-This project features a straightforward two-page portfolio built with HTML and basic CSS. It includes a Home page that introduces my work and a Contact page for reaching out.
+    Welcome to my personal portfolio website! This project is built using HTML and basic CSS. It includes a simple and clean design to showcase my background and provide a way to get in touch with me.
 
-Features:
-  Home Page: An overview of my skills and projects, presented in a clean layout.
-  Contact Page: A simple form for visitors to get in touch with me.
+**Features**:
+
+    **Home Page:** A brief introduction about me and my professional background.
   
-Feel free to explore and provide feedback!
+    **Contact Page:** Simple contact information and a form for reaching out.
+
+**Technologies Used:**
+
+    **HTML5:** For structuring the content
+  
+    **CSS3:** For styling the layout and appearance
+
+Feel free to explore the code, make suggestions, or use it for inspiration!
